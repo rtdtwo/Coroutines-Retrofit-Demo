@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoroutinesRetrofitDemo</string>
+    <string name="get_random_dog_image">Get Random Dog Image</string>
+</resources>
