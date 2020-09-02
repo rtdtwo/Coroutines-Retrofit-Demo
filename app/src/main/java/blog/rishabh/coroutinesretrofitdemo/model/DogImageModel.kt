@@ -1,4 +1,4 @@
-package blog.rishabh.coroutinesretrofitdemo
+package blog.rishabh.coroutinesretrofitdemo.model
 
 import androidx.annotation.Keep
 

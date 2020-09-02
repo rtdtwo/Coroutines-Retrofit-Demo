@@ -9,3 +9,6 @@ This is the source code for the mini-project that I have explained in-depth in [
 ## External resources used
 - [Retrofit](https://github.com/square/retrofit)
 - [Dog-Ceo-API](https://github.com/ElliottLandsborough/dog-ceo-api)
+
+##Upd:
+A simple example, how we can add Moxy to Kotlin & Couroutines union

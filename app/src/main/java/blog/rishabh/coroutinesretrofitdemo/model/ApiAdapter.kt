@@ -1,4 +1,4 @@
-package blog.rishabh.coroutinesretrofitdemo
+package blog.rishabh.coroutinesretrofitdemo.model
 
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit

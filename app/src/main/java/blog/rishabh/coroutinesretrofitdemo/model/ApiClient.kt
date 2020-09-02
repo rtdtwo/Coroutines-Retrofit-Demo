@@ -1,5 +1,6 @@
-package blog.rishabh.coroutinesretrofitdemo
+package blog.rishabh.coroutinesretrofitdemo.model
 
+import blog.rishabh.coroutinesretrofitdemo.model.DogImageModel
 import retrofit2.Response
 import retrofit2.http.GET
 
